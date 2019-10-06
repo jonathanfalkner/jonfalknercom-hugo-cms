@@ -90,3 +90,9 @@
     display:block;
     padding:.33em .5em;
 }
+
+@media screen and (min-width: 60em) {
+    .w-40-l.lh-title {
+        margin-right:1em;
+    } 
+}
