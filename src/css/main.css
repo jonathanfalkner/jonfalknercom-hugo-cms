@@ -86,7 +86,7 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
-.bg-fix-primary :first-child {
-  padding-left:.5em;
-  padding-right:.5em;
+.bg-fix-primary p {
+    display:block;
+    padding:.33em .5em;
 }
