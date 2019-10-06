@@ -5,39 +5,32 @@ subtitle: >-
   Developer, Graphic Designer, Board Game Creator, and a bit of a nut.
 image: /img/banner_1920.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Who is Jonathan?
+  text: >
+    If you need an architecture planned and implemented, on any stack, in any
+    programming language, you're in the right place.
 intro:
-  heading: What we offer
+  heading: Experience
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    The right solution for the need at hand. This is Jonathan's motto. Dive
+    deeper into the varied technology stacks used in meeting the business needs
+    and the experience he's gained along the way.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/cross-operating-system-development.png
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Full Stack development requires knowledge across multiple platforms.
+      Jonathan has experience developing on Windows, Linux, iOS, Android, and
+      embedded proprietary systems.
+  - image: /img/code.svg
+    text: >
+      Knowing more than one language is key to finding the right solution.
+      Jonathan has extensive experience in a multitude of languages and
+      technologies.
 values:
-  heading: Our values
+  heading: 'Life, the Universe, and Everything'
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    There is more to a person than the work they've done. Click below to learn
+    more about Jonathan's hobbies, passions, personal projects, and other
+    errata.
 ---
 
