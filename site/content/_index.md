@@ -15,7 +15,7 @@ intro:
     The right solution for the need at hand. This is Jonathan's motto. Dive
     deeper into the varied technology stacks used in meeting the business needs
     and the experience he's gained along the way.
-products:
+experience:
   - image: /img/cross-operating-system-development.png
     text: >-
       Full Stack development requires knowledge across multiple platforms.
