@@ -1,19 +1,12 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Contact
+logo: /img/logo.svg
+contact_entries: []
 ---
+Looking to hire Jonathan? Send an email to [guru@jonfalkner.com](mailto:guru@jonfalkner.com?subject=Job%20Offer&body=Add%20R-42%20to%20the%20subject%20line%20to%20pass%20the%20I'm%20not%20a%20robot%20test%20or%20your%20email%20will%20be%20ignored.%20%20Thank%20you%20for%20your%20understanding.)
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<h3 class="f4 b lh-title mb2">But I'm here for…</h3>
+
+Learn more about Jonathan's board game Cair Aetheorn at [cairaethorn.com](http://cairaethorn.com).
