@@ -15,14 +15,14 @@ intro:
     The right solution for the need at hand. This is Jonathan's motto. Dive
     deeper into the varied technology stacks used in meeting the business needs
     and the experience he's gained along the way.
-experience:
+products:
   - image: /img/cross-operating-system-development.png
     text: >-
       Full Stack development requires knowledge across multiple platforms.
       Jonathan has experience developing on Windows, Linux, iOS, Android, and
       embedded proprietary systems.
   - image: /img/code.svg
-    text: >-
+    text: >
       Knowing more than one language is key to finding the right solution.
       Jonathan has extensive experience in a multitude of languages and
       technologies.
