@@ -9,8 +9,9 @@ intro:
   blurbs: []
   heading: Current
   description: >-
-    First Quality Enterprises currently employs Jonathan to build the Sitecore
-    CMS used for a majority of their brand websites.
+    Jonathan is currently working with First Quality Enterprises in an ongoing
+    effort to build a scalable, multi-site, themable Sitecore 9.1 content
+    management system.
 main:
   heading: d
   description: d
