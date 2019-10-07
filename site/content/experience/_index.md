@@ -1,6 +1,5 @@
 ---
-title: Our Coffee
-type: experience
+title: Experience
 image: /img/experience-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -98,5 +97,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
