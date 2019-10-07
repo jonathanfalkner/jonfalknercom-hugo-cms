@@ -10,8 +10,8 @@ about:
   - heading: Sign Up
     imageUrl: /img/spacer.gif
     text: >-
-      If you love board games as much as he does, check out
-      [cairaethorn.com](http://cairaethorn.com) Cair Aethorn and sign up to
-      receive an update when the game is available for purchase!
+      If you love board games as much as he does, check out {{< ref
+      "http://cairaethorn.com/" >}} Cair Aethorn and sign up to receive an
+      update when the game is available for purchase!
 ---
 
