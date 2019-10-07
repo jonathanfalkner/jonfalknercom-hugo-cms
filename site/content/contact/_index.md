@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/icons-email.svg
 contact_entries: []
 ---
 Looking to hire Jonathan? Send an email to [guru@jonfalkner.com](<mailto:guru@jonfalkner.com?subject=Job Offer&body=Add R-42 to the subject line to pass the I am not a robot test or your will be ignored.  Thank you for your understanding>)
