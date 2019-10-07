@@ -26,11 +26,10 @@ experience:
       Knowing more than one language is key to finding the right solution.
       Jonathan has extensive experience in a multitude of languages and
       technologies.
-values:
-  heading: 'Life, the Universe, and Everything'
+about:
+  heading: 'Live, the Universe, and Everything'
   text: >-
-    There is more to a person than the work they've done. Click below to learn
-    more about Jonathan's hobbies, passions, personal projects, and other
-    errata.
+    Jonathan is about far more than just business and software. Board game
+    creation, audio engineering, playing music - creativity is in his blood.
 ---
 
