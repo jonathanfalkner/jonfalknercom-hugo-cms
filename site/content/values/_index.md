@@ -1,6 +1,6 @@
 ---
 title: Personal Bio
-image: /img/about.svg
+image: /img/about-jumbotron.jpg
 values:
   - heading: Cair Aethorn
     imageUrl: /img/home-about-section.png
