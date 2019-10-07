@@ -4,12 +4,6 @@
 
 {{ partial "4-up" .Params.intro }}
 
-{{ range .Params.experience_entries }}
-  <div>
-    <h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-    <p>{{ .text }}</p>
-  </div>
-{{ end }}
 
 {{ with .Params.main }}
 <div class="mw7 center">
@@ -21,6 +15,7 @@
 
 <!-- Image grid -->
 {{ partial "image-grid" . }}
+{{ end }}
 
 <div class="pb4">
   {{ range .Params.testimonials }}
