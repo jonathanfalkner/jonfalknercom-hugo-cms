@@ -14,6 +14,6 @@ CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("experience", ExperiencePreview);
-CMS.registerPreviewTemplate("about", ValuesPreview);
+CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.init();
