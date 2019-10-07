@@ -53,6 +53,10 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
       </div>
+      
+      <div className="center mw6 pv3">
+        { widgetFor("body") }
+      </div>
 
       <div className="pb4">
         {(entry.getIn(['data', 'testimonials']) || []).map((testimonial, index) => <div className="center mb3 ph3" key={index}>
