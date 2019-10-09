@@ -26,13 +26,6 @@ experience:
       Knowing more than one language is key to finding the right solution.
       Jonathan has extensive experience in a multitude of languages and
       technologies.
-project:
-  - image: /img/cross-operating-system-development.png
-    text: >-
-      Project text
-  - image: /img/code.svg
-    text: >
-      Project text 2
 about:
   heading: 'Life, the Universe, and Everything'
   text: >-
