@@ -16,7 +16,6 @@ intro:
     deeper into the varied technology stacks used in meeting the business needs
     and the experience he's gained along the way.
 experience:
-  heading: 'Experience'
   - image: /img/cross-operating-system-development.png
     text: >-
       Full Stack development requires knowledge across multiple platforms.
@@ -28,7 +27,6 @@ experience:
       Jonathan has extensive experience in a multitude of languages and
       technologies.
 project:
-  heading: 'Projects'
   - image: /img/cross-operating-system-development.png
     text: >-
       Project text
