@@ -8,7 +8,99 @@
 		</div>
 	</div>
 </div>
-<script>
+<style>
+.embedded-doc {
+    font-size:75%;
+    line-height:1.3em;
+    max-width: 700px;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+table {
+    width:100%;
+}
+td:last-child * {
+    text-align: right;
+}
+td:first-child * {
+    text-align: left;
+}
+ul[class *= "list_"][class *="-0"] {
+    list-style:disc;
+    margin-left:2em;
+    margin-top:0;
+    margin-bottom:0;
+    padding-top:0;
+    padding-bottom:0;
+
+}
+ul[class *= "list_"][class *="-1"]{
+    list-style:circle;
+    margin-left:4em;
+    margin-top:0;
+    margin-bottom:0;
+    padding-top:0;
+    padding-bottom:0;
+}
+ul[class *= "list_"][class *="-2"]{
+    list-style:circle;
+    margin-left:6em;
+        margin-top:0;
+    margin-bottom:0;
+    padding-top:0;
+    padding-bottom:0;
+
+}
+
+*:empty() {
+    display:none;
+    position:absolute;
+}
+.c20 {
+    margin-top:2.5em;
+}
+.c8 {font-weight:bold;}
+.c13 {font-style:italic; display:inline-block; margin-bottom:1em;}
+.c7 {margin-bottom:0;}
+.c17 {margin-bottom: 1em;}
+.c20 ~* {padding-left:1em;}
+.c25 { margin-bottom:0; }
+.c25 + a + a + .c20 *,
+.c25 + a + a + .c20 + .c1 + a + a + .c20 * { padding-left:1em; font-size:.95em;}
+.c25 .c4 {
+   text-align:left;
+   margin-bottom:.5em;
+   padding-bottom:0;
+   display:inline-block;
+}
+.c20 + .c9 + .c9,
+.c20 + .c9 + .c9 + .c9 {
+    margin-left:2em;
+}
+.c12 * {
+    padding-bottom:0;
+    margin-bottom:0;
+    line-height:2em;
+}
+
+a[id ^= "t"]{
+    line-height:0;
+    font-size:0;
+    padding:0!important;
+    margin:0!important;
+    
+}
+td {vertical-align:top;}
+
+a[id="t.6"] + .c20 {
+    padding-top:0;
+    margin-top:0;
+    margin-bottom:1em;
+}
+
+</style>
+<script type="text/javascript" id="replaceIFrames">	
         // get all iframes that were parsed before this tag
         var iframes = document.getElementsByTagName("iframe");
 
@@ -35,7 +127,7 @@
 		    for (var i = 0; i < styles.length; i++) {
 			styles[i].parentNode.removeChild(styles[i]);
 		    }
-		    d.removeChild(d.firstChild());
+		    d.removeChild(d.firstElementChild);
                 };
                 xhr.send();
             }
