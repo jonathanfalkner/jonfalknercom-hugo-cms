@@ -26,6 +26,16 @@
                 xhr.onload = function() {
                     // display response
                     d.innerHTML = xhr.responseText;
+		    var metas = d.getElementsByTagName("meta");
+		    for (var i = 0; i < metas.length; i++) {
+			metas[i].parent.removeChild(metas[i]);
+		    }
+			
+		    var styles = d.getElementsByTagName("style");
+		    for (var i = 0; i < styles.length; i++) {
+			styles[i].parent.removeChild(metas[i]);
+		    }
+		    d.removeChild(d.firstChild());
                 };
                 xhr.send();
             }
