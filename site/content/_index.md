@@ -1,8 +1,8 @@
 ---
 title: Jonathan Falkner
 subtitle: >-
-  Writer, Musician, Entrepreneur, Solution Architect, DevOps Engineer,
-  Developer, Graphic Designer, Board Game Creator, and a bit of a nut.
+  Solution Architect, DevOps Engineer, Developer, Graphic Designer, Writer,
+  Musician, Entrepreneur, Board Game Creator, and a bit of a nut.
 image: /img/banner_1920.jpg
 blurb:
   heading: Who is Jonathan?
